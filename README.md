@@ -52,7 +52,7 @@ source .venv/bin/activate
 ```shell
 py -m pip install django
 ```
-nit repo with
+init repo with
 
 ```shell
 git init
