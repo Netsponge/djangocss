@@ -227,6 +227,7 @@ git add . && git commit -m "css file"
 ```
 ## load static inside your html template file
 
-```shell
-{% load static %}
+```html
+ <link rel="stylesheet" href="{% static 'style.css' %}"> <title>Home</title>
+    {% load static %}
 ```
