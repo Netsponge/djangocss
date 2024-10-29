@@ -231,3 +231,9 @@ git add . && git commit -m "css file"
  <link rel="stylesheet" href="{% static 'style.css' %}"> <title>Home</title>
     {% load static %}
 ```
+
+Commit & check
+
+```shell
+git add . && git commit -m "load static"
+```
