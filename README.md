@@ -237,3 +237,6 @@ Commit & check
 ```shell
 git add . && git commit -m "load static"
 ```
+
+## run server
+`py manage.py runserver`
