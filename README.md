@@ -225,3 +225,8 @@ Commit & check
 ```shell
 git add . && git commit -m "css file"
 ```
+## load static inside your html template file
+
+```shell
+{% load static %}
+```
