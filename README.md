@@ -215,3 +215,13 @@ Commit & check
 ```shell
 git add . && git commit -m "final layout"
 ```
+
+## add a css file
+
+create a static folder and add style.css file
+
+Commit & check
+
+```shell
+git add . && git commit -m "css file"
+```
