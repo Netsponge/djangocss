@@ -56,7 +56,7 @@ init repo with
 
 ```shell
 git init
-git add . && git commit -m "first commit"
+git add . && git commit -m "init repo"
 ```
 
 ## Create virtual environment for Python and activate it
@@ -218,7 +218,7 @@ git add . && git commit -m "final layout"
 
 ## add a css file
 
-create a static folder and add style.css file
+create a static folder and add folder css plus a file style.css in
 
 Commit & check
 
